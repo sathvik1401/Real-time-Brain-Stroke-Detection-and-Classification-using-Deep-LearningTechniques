@@ -1,0 +1,2 @@
+# Real-time-Brain-Stroke-Detection-and-Classification-using-Deep-LearningTechniques
+This project implements a deep learning-based system for real-time detection and classification of brain strokes from CT scan images. The goal is to support early and accurate diagnosis to improve clinical outcomes.  My Contributions:  Data pre-processing  Post-testing and performance evaluation  Paper formatting and final submission preparation.
